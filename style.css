@@ -1,0 +1,33 @@
+.root {
+    margin: 0;
+}
+
+.classImg {
+    width: 200px;
+}
+
+.idSing {
+ display: flex;
+ flex-direction: column;
+ padding-left: 20px;
+}
+
+
+
+.cardUp {
+    display: flex;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.592);
+}
+
+.cardDown {
+    display: flex;
+    justify-content:flex-start;
+    gap:300px;
+    border-top: 1 px solid grey;
+}
+
+.note {
+    display: flex;
+    flex-direction: row;
+    align-items: ;
+}
